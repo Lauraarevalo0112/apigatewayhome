@@ -27,7 +27,7 @@
 
     <div class="product-info">
         <div>
-            <p>$50.000</p>
+            <p>$500.000</p>
             <p>Planta</p>
         </div>
         <figure>
