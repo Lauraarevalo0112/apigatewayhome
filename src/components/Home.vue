@@ -8,7 +8,7 @@
     </h1>
 
     <div class="details">
-      <h3>Tu información es la siguiente</h3>
+      <h3>Su información es la siguiente</h3>
 
       <h2>
         Nombre de usuario:
