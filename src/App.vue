@@ -4,7 +4,7 @@
 
     <div class="header">
 
-      <h1> Tienda Home </h1>
+      <h1> Tienda Home. </h1>
       <nav>
         <button v-if="is_auth" v-on:click="loadHome"> Inicio </button>
         <button v-if="is_auth" v-on:click="loadAccount"> Cuenta </button>
