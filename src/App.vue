@@ -4,7 +4,7 @@
 
     <div class="header">
 
-      <h1> Tienda Home. </h1>
+      <h1>Tienda Home</h1>
       <nav>
         <button v-if="is_auth" v-on:click="loadHome"> Inicio </button>
         <button v-if="is_auth" v-on:click="loadAccount"> Cuenta </button>
@@ -12,7 +12,7 @@
         <button v-if="is_auth" v-on:click="loadTransaction"> Transacción </button>
         <button v-if="is_auth" v-on:click="logOut"> Cerrar Sesión </button>
         <button v-if="!is_auth" v-on:click="loadLogIn" > Iniciar Sesión </button>
-        <button v-if="!is_auth" v-on:click="loadSignUp" > Registrarse </button>
+        <button v-if="!is_auth" v-on:click="loadSignUp" > Registrarse!! </button>
       </nav>
     </div>
     
